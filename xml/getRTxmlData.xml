@@ -1,0 +1,67 @@
+<DiagramInput savedAt="2019-10-11 13:50:09" xmlns="http://rddl.xmlinside.net/PowerMeasurement/data/webreach/realtime/1/">
+  <Items nodeName="ABT" status="succeeded">
+    <Item h="20972300" dt="0" un="" l="U1_kw" r="2" v="192.54" />
+    <Item h="20973836" dt="0" un="" l="U2_kw" r="2" v="187.73" />
+    <Item h="20975628" dt="0" un="" l="U3_kw" r="2" v="0.00" />
+    <Item h="20978444" dt="0" un="" l="U4_kw" r="2" v="208.46" />
+    <Item h="20979212" dt="0" un="" l="U5_kw" r="2" v="206.18" />
+    <Item h="20981260" dt="0" un="" l="F1_kw" r="2" v="188.03" />
+    <Item h="20983052" dt="0" un="" l="F2_kva" r="2" v="150.21" />
+    <Item h="20984588" dt="0" un="" l="F3_kw" r="2" v="50.41" />
+    <Item h="20986380" dt="0" un="" l="F4_kw" r="2" v="50.60" />
+    <Item h="20988428" dt="0" un="" l="F5_kw" r="2" v="90.41" />
+    <Item h="20990220" dt="0" un="" l="F6_kw" r="2" v="90.06" />
+    <Item h="20992780" dt="0" un="" l="F7_kw" r="2" v="52.86" />
+    <Item h="20994316" dt="0" un="" l="F8_kw" r="2" v="54.04" />
+    <Item h="20995340" dt="0" un="" l="F9_kw" r="2" v="5.31" />
+    <Item h="20998156" dt="0" un="" l="F10_kw" r="2" v="7.04" />
+    <Item h="2101763" dt="1" un="" l="OR3" r="0" v="0" />
+  </Items>
+  <Items nodeName="VIP.MAXIMOBACKUPSRV" status="succeeded">
+    <Item h="20971785" dt="0" un="" l="Time Block" r="0" v="56" />
+    <Item h="20971788" dt="0" un="" l="Next TB" r="0" v="57" />
+    <Item h="20971790" dt="0" un="" l="Min Left" r="0" v="10" />
+    <Item h="20971791" dt="0" un="" l="Min elapsed" r="0" v="5" />
+    <Item h="20972297" dt="0" un="" l="MW Exp" r="2" v="719.90" />
+    <Item h="20972298" dt="0" un="" l="MW Gen" r="2" v="794.92" />
+    <Item h="20972304" dt="0" un="%" l="PLF" r="2" v="75.71" />
+    <Item h="20972553" dt="0" un="" l="MU Exp" r="4" v="9.0544" />
+    <Item h="20973065" dt="0" un="KV" l="400 KV Bus Volt" r="2" v="410.55" />
+    <Item h="20973066" dt="0" un="KV" l="220 KV Bus Volt" r="2" v="233.30" />
+    <Item h="20973067" dt="0" un="KV" l="33 KV Bus Volt" r="2" v="33.70" />
+    <Item h="20973321" dt="0" un="Hz" l="Bus Hz" r="2" v="50.04" />
+    <Item h="20974345" dt="0" un="" l="APC MU" r="2" v="9.27" />
+    <Item h="20975625" dt="0" un="" l="Avg Mw Exp" r="2" v="721.43" />
+    <Item h="20976137" dt="0" un="" l="Avg Hz" r="2" v="50.04" />
+    <Item h="20979465" dt="0" un="" l="AG/DC" r="2" v="98.83" />
+    <Item h="20979466" dt="0" un="" l="AG/SG" r="2" v="98.83" />
+    <Item h="20979467" dt="0" un="" l="UIMW" r="2" v="-8.57" />
+    <Item h="20979469" dt="0" un="" l="TAG/SG" r="2" v="100.55" />
+    <Item h="20983305" dt="0" un="" l="Deviation rate" r="2" v="0.71" />
+    <Item h="20983306" dt="0" un="" l="Deviation Charge" r="0" v="-1,526" />
+    <Item h="20993289" dt="0" un="" l="ASR 80%" r="0" v="512" />
+    <Item h="20993290" dt="0" un="" l="ASR 85%" r="0" v="568" />
+    <Item h="20993291" dt="0" un="" l="ASR 88%" r="0" v="601" />
+    <Item h="20993292" dt="0" un="" l="ASR 95%" r="0" v="679" />
+    <Item h="20993293" dt="0" un="" l="ASR 100%" r="0" v="734" />
+    <Item h="33554691" dt="8" un="" l="CL1 LocalTime" r="0" v="10/11/2019 13:50:08.000" />
+    <Item h="35651869" dt="0" un="" l="SG" r="0" v="730" />
+    <Item h="35651870" dt="0" un="" l="DC" r="0" v="730" />
+    <Item h="35651871" dt="0" un="" l="LSG" r="0" v="730" />
+    <Item h="35651872" dt="0" un="" l="LDC" r="0" v="730" />
+    <Item h="35651873" dt="0" un="" l="NSG" r="0" v="730" />
+    <Item h="35651874" dt="0" un="" l="NDC" r="0" v="730" />
+    <Item h="35651875" dt="0" un="" l="LAG" r="2" v="725.17" />
+    <Item h="35651877" dt="0" un="" l="LHZ" r="2" v="50.00" />
+    <Item h="35651878" dt="0" un="" l="LUIR" r="2" v="1.78" />
+    <Item h="35651884" dt="0" un="" l="UIG" r="0" v="83,374" />
+    <Item h="35651885" dt="0" un="" l="UIN" r="0" v="-23,067" />
+    <Item h="35651886" dt="0" un="" l="LUIMW" r="3" v="-4.833" />
+    <Item h="35651887" dt="0" un="" l="LUIG" r="0" v="-2,151" />
+    <Item h="35651888" dt="0" un="" l="LUIN" r="0" v="463" />
+    <Item h="35651889" dt="0" un="" l="positive" r="0" v="0" />
+    <Item h="35651890" dt="0" un="" l="negative" r="0" v="1" />
+    <Item h="6291713" dt="0" un="" l="BEF" r="2" v="49.96" />
+    <Item h="6291969" dt="0" un="" l="Fuel Rate" r="2" v="2.63" />
+  </Items>
+</DiagramInput>
